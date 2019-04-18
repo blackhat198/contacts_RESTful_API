@@ -4,10 +4,10 @@ Contacts -RESTful- API is a representational state transfer(RESTful) Application
 ### The API uses the following technologies.
 
 
-- node js frame work of java script thats allows java script server side code
-- express js node js frame work 
-- Joi node js package for validation of data received from a request or client data
-- mongodb uses mongodb database management system for data storage
+- [node js](https://nodejs.org/en/) frame work of java script thats allows java script server side code
+- [express js](https://expressjs.com/) node js frame work 
+- [Joi](https://www.npmjs.com/package/joi) node js package for validation of data received from a request or client data
+- [mongodb](https://www.mongodb.com/what-is-mongodb) uses mongodb database management system for data storage
 - [mongoose](https://mongoosejs.com/) framework of mongodb used for carrying out mongodb operations
 
 This RESTful API service can be used with sms gateways,that can allow users of the sms gateway send various sms's to different people.
