@@ -11,5 +11,4 @@ Contacts -RESTful- API is a representational state transfer(RESTful) Application
 - [mongoose](https://mongoosejs.com/) framework of mongodb used for carrying out mongodb operations
 
 This RESTful API service can be used with sms gateways,that can allow users of the sms gateway send various sms's to different people.
-This API service helps the SMS gateway provider's to create,retrive,update and delete contacts for their users.An SMS gateway 
-gateway that send sms's in bulk to various organisations can take advatange of this API and use the mentioned operations that API service provides.
+This API service helps the SMS gateway provider's to create,retrive,update and delete contacts for their users.An SMS gateway that send sms's in bulk to various organisations can take advatange of this API and use the mentioned operations that API service provides.
